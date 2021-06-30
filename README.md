@@ -2,7 +2,9 @@
 test
 
 # installation
+```
 sudo snap install --classic code
+```
 
 # configuration
 ```
